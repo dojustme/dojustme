@@ -10,6 +10,3 @@
 ## **Vanilla Kinich!**  
 
 ![Kinich](<img/Kinich PV.png> "他真好看")
-
-
-
