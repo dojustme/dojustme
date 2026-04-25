@@ -5,7 +5,10 @@
 <img src="img/Minecraft player model.png" style="width: 15%; height: auto;" alt="Java 版皮肤"></img>
 - 🖋️~~Minecraft Wiki 不活跃[用户](https://zh.minecraft.wiki/User:Dojustme)~~
 - 🚶‍♂️‍➡️喜欢在GitHub闲逛，~~作出最多的贡献是点Star⭐~~
-- 🌐互联网通用网名`冬鸣菌`和`dojustme`  
+- 🌐互联网通用网名`冬鸣菌`和`dojustme`
+
+## 石墩子
+![Stone Badge](https://stone.professorlee.work/api/stone/dojustme/dojustme)
 
 ## **Vanilla Kinich!**  
 
